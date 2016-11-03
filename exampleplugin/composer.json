@@ -1,0 +1,14 @@
+{
+	"name": "madebyshape/exampleplugin",
+	"description": "Example Plugin",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "Jason Mayo",
+			"homepage": "http://madebyshape.co.uk"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
